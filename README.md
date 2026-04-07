@@ -1,4 +1,4 @@
-# jeonjagong_cartel# 📁 Project Repository Guide
+# jeonjagong_cartel Project Repository Guide
 
 이 레포지토리는 프로젝트의 **코드, 문서, 회의록 및 각 팀별 작업 결과물**을 통합 관리합니다.
 각 폴더는 기능 및 팀 단위로 구성되어 있으며, 관련 자료는 해당 폴더 내에 정리됩니다.
