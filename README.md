@@ -8,11 +8,11 @@
 
 커밋 메세지는 다음과 같은 규칙을 따라 작성합니다.
 
-feat : 기능 추가
-fix : 버그 수정
-refactor: 코드 구조 개선
-style: UI / 코드 스타일 변경
-docs: 문서 수정
+* feat : 기능 추가
+* fix : 버그 수정
+* refactor: 코드 구조 개선
+* style: UI / 코드 스타일 변경
+* docs: 문서 수정
 
 #### EX)
 feat: add tilt rotation
