@@ -4,6 +4,22 @@
 각 폴더는 기능 및 팀 단위로 구성되어 있으며, 관련 자료는 해당 폴더 내에 정리됩니다.
 
 ---
+## 💬 커밋 메세지 규칙
+
+커밋 메세지는 다음과 같은 규칙을 따라 작성합니다.
+
+feat : 기능 추가
+fix : 버그 수정
+refactor: 코드 구조 개선
+style: UI / 코드 스타일 변경
+docs: 문서 수정
+
+#### EX)
+feat: add tilt rotation
+fix: pan rotation not working issue
+refactor: improve pan rotation logic
+style: update control UI
+docs: add README
 
 ## 📂 폴더 구조
 
